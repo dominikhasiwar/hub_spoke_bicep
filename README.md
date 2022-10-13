@@ -1,1 +1,1 @@
-# hub_spoke_bicep
+Azure Bicep Templates for creating a hub spoke network topology.
